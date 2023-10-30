@@ -17,6 +17,7 @@ function insertScrollNav() {
                     <li class="str_menuitem"><a href="/pages/strategy.html">The Strategy</a></li>
                     <li class="pro_menuitem"><a href="/pages/process.html">The Process</a></li>
                     <li class="con_menuitem"><a href="/pages/contact.html">Contact Us</a></li>
+                    <li class="con_menuitem"><a href="/pages/current-offerings.html">Current Offerings</a></li>
                 </ul>
             </div>
         </nav><!-- Main Menu End-->

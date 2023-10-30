@@ -34,6 +34,7 @@ function insertFooter() {
 								<h4>Links</h4>
 								<ul class="list-link">
 									<li><a href="/index.html">Home</a></li>
+									<li><a href="/current-offerings.html">Our Current Offerings</a></li>
 									<li><a href="/pages/ppp.html">Private Placement Program</a></li>
 									<li><a href="/pages/mtn.html">Medium Term Notes</a></li>
 									<li><a href="/pages/strategy.html">The Strategy</a></li>
